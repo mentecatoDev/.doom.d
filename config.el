@@ -94,5 +94,5 @@
 ;; projectile
 ;;
 (setq
- projectile-project-search-path `("~/Dropbox/Apuntes/")
+ projectile-project-search-path `("~/Dropbox/")
  )
